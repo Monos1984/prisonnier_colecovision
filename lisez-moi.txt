@@ -1,0 +1,4 @@
+Code source de prisonnier pour colecovision.
+Programmer en C, compilé avec SDCC et utilisant l'api d'alekmaul PVcollib.
+https://github.com/alekmaul/pvcollib
+
